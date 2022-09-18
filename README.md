@@ -2,3 +2,4 @@
 
 This is a simple Readme file.
 Something is changed. 
+Confilict resolution.
